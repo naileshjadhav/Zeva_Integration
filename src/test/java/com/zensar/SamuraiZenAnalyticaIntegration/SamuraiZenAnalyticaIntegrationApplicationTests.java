@@ -1,10 +1,10 @@
-package com.zensar.zeva.samurai;
+package com.zensar.SamuraiZenAnalyticaIntegration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ZevaSamuraiIntegrationChatbotApplicationTests {
+class SamuraiZenAnalyticaIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
