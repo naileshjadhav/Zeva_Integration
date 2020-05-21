@@ -12,7 +12,7 @@ CREATE TABLE `samurai_rpa` (
   `impact` varchar(50) DEFAULT NULL,
   `eform_id` bigint(20) DEFAULT NULL,
   `type_of_request` varchar(50) DEFAULT NULL,
-  `resolution_response` varchar(5000) DEFAULT NULL,
+  `resolution_response` varchar(1000) DEFAULT NULL,
   `resolution_platform` varchar(50) DEFAULT NULL,
   `solution_type` varchar(50) DEFAULT NULL,
   `eform_status_by_platform` varchar(20) DEFAULT NULL,
